@@ -1,0 +1,2 @@
+# Codecademy_Python_StudentBecomesTheTeacher
+This is my work for my Codecademy course on Python :) Welcome to this "Challenge Course". Until now we've been leading you by the hand and working on some short and relatively easy projects. This is a challenge so be ready. We have faith in you!  We’re going to switch it up a bit and allow you to be the teacher of your own class. Make a gradebook for all of your students.
